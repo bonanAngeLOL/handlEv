@@ -6,6 +6,6 @@ If element is passed as argument it will attach event listener to element
 
 Add event.
 
-  _$("[selector]","onEvent",function(){})
+    _$("[selector]","onEvent",function(){})
 
 It lacks of error catching for some errors I haven't looking for
